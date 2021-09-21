@@ -25,3 +25,13 @@
 .sirrobertchiltern{
     color: maroon;
 }
+.tableStyle{
+    border-style: double;
+    border-color: mediumvioletred;
+    text-align: center;
+    margin: 40px;
+    padding: 10px;
+}
+.child{
+  border: 1px solid magenta;
+}
