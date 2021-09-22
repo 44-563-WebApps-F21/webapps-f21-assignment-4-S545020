@@ -8,6 +8,7 @@
     font-size: 20px;
     background-color: burlywood;
     color: black;
+    
 }
 .name{
     font-family: Arial, Helvetica, sans-serif;
@@ -27,6 +28,11 @@
     color: maroon;
   
 }
+.charName {
+    font-size: 1rem;
+    font-style: 🧑;
+  }
+  
 .tableStyle{
     border-style: double;
     border-color: mediumvioletred;
@@ -77,5 +83,12 @@ ul {
   }
   .secondpage {
     background-color: lightpink;
+  }
+  .left {
+    text-align: left;
+  }
+  .h5{
+    margin-top: 0%;
+    margin-bottom: 0%;
   }
   
