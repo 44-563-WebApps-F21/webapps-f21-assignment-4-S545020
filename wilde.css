@@ -13,6 +13,7 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
     color: black;
+    
 }
 .hover:hover{
     background-color: cyan;
@@ -24,6 +25,7 @@
 }
 .sirrobertchiltern{
     color: maroon;
+  
 }
 .tableStyle{
     border-style: double;
@@ -34,4 +36,10 @@
 }
 .child{
   border: 1px solid magenta;
+  padding:20px
+}
+.nameHover:hover{
+    text-shadow: 5px 5px violet;
+    border-style: groove;
+    border-color: wheat;
 }
